@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tuer
+comment1.params=
+comment1.target=Tuer()
+comment2.params=
+comment2.target=java.lang.String\ zustandGeben()
+comment3.params=
+comment3.target=void\ oeffnen()
+comment4.params=
+comment4.target=void\ schliessen()
+numComments=5

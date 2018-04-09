@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SBahn
+comment1.params=
+comment1.target=SBahn()
+comment2.params=
+comment2.target=void\ tuerenSchliessen()
+comment3.params=v
+comment3.target=void\ geschwindigkeitSetzen(double)
+numComments=4

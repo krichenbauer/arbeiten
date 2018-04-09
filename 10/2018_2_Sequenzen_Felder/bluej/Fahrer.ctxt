@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fahrer
+comment1.params=b
+comment1.target=Fahrer(SBahn)
+comment2.params=
+comment2.target=void\ losFahren()
+numComments=3
