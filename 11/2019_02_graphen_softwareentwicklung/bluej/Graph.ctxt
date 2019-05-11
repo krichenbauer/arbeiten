@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Graph
+comment1.params=
+comment1.target=Graph()
+comment2.params=bezeichnung
+comment2.target=boolean\ neuerKnoten(java.lang.String)
+comment3.params=knotenA\ knotenB\ wert
+comment3.target=boolean\ neueKante(java.lang.String,\ java.lang.String,\ int)
+comment4.params=bezeichnung
+comment4.target=int\ knotenSuchen(java.lang.String)
+comment5.params=
+comment5.target=void\ ausgeben()
+numComments=6
